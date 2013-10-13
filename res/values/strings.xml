@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TouchCar</string>
+    <string name="ecar_team_logo">Logo EcarTeam</string>
+    <string name="welcome_message">Bienvenue dans l\'application TouchCar</string>
+    <string name="server_ip_address">adresse IP du serveur</string>
+    <string name="port">numéro du port</string>
+    <string name="blinker_left">Clignotant gauche</string>
+    <string name="blinker_right">Clignotant droit</string>
+    <string name="mainbeam">Feux de route</string>
+    <string name="position_lowbeam">Feux de position / Feux de croisement</string>
+    <string name="stoplight">Feux de stop</string>
+    <string name="warning">Warning</string>
+    <string name="backlight">Feux de recule</string>
+    <string name="connexion_to_the_vehicule">Connexion avec le véhicule :</string>
+    <string name="connexion">Connection</string>
+
+</resources>
